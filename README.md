@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Isac2411/Isac2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Isac/Isac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
